@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/esorus/static/js/main.a5963169.chunk.js",
+    "main.js.map": "/esorus/static/js/main.a5963169.chunk.js.map",
+    "runtime-main.js": "/esorus/static/js/runtime-main.f87e256a.js",
+    "runtime-main.js.map": "/esorus/static/js/runtime-main.f87e256a.js.map",
+    "static/css/2.8f9235ad.chunk.css": "/esorus/static/css/2.8f9235ad.chunk.css",
+    "static/js/2.6fa814ed.chunk.js": "/esorus/static/js/2.6fa814ed.chunk.js",
+    "static/js/2.6fa814ed.chunk.js.map": "/esorus/static/js/2.6fa814ed.chunk.js.map",
+    "static/js/3.7f5774aa.chunk.js": "/esorus/static/js/3.7f5774aa.chunk.js",
+    "static/js/3.7f5774aa.chunk.js.map": "/esorus/static/js/3.7f5774aa.chunk.js.map",
+    "index.html": "/esorus/index.html",
+    "static/css/2.8f9235ad.chunk.css.map": "/esorus/static/css/2.8f9235ad.chunk.css.map",
+    "static/js/2.6fa814ed.chunk.js.LICENSE.txt": "/esorus/static/js/2.6fa814ed.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/esorus/static/media/revicons.e8746a62.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f87e256a.js",
+    "static/css/2.8f9235ad.chunk.css",
+    "static/js/2.6fa814ed.chunk.js",
+    "static/js/main.a5963169.chunk.js"
+  ]
+}
